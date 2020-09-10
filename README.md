@@ -1,4 +1,4 @@
-# September-LeetCoding-Challenge-2020
+# September LeetCoding Challenge 2020
 In this repository provided my Python solutions of September LeetCoding Challenge problems.
 
 ## Introduction
@@ -26,7 +26,7 @@ Nothing to note.
 | ----: | --- | --- | --- |
 |1022.|[Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)|[Python](/Week%202/1022.SumofRootToLeafBinaryNumbers.py)|Easy|
 |165.|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)|[Python](/Week%202/165.CompareVersionNumbers.py)|Medium|
-
+|299.|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|[Python](/Week%202/299.BullsandCows.py)|Easy|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
