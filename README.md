@@ -27,6 +27,7 @@ Nothing to note.
 |1022.|[Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)|[Python](/Week%202/1022.SumofRootToLeafBinaryNumbers.py)|Easy|
 |165.|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)|[Python](/Week%202/165.CompareVersionNumbers.py)|Medium|
 |299.|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|[Python](/Week%202/299.BullsandCows.py)|Easy|
+|152.|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[Python](/Week%202/152.MaximumProductSubarray.py)|Medium|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
