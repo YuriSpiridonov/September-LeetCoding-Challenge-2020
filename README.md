@@ -28,6 +28,7 @@ Nothing to note.
 |165.|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)|[Python](/Week%202/165.CompareVersionNumbers.py)|Medium|
 |299.|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|[Python](/Week%202/299.BullsandCows.py)|Easy|
 |152.|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[Python](/Week%202/152.MaximumProductSubarray.py)|Medium|
+|216.|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)|[Python](/Week%202/216.CombinationSumIII.py)|Medium|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
