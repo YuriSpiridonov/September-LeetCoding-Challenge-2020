@@ -31,6 +31,7 @@ For the following problems I was googling approaches:
 |152.|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[Python](/Week%202/152.MaximumProductSubarray.py)|Medium|
 |216.|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)|[Python](/Week%202/216.CombinationSumIII.py)|Medium|
 |57.|[Insert Interval](https://leetcode.com/problems/insert-interval/)|[Python](/Week%202/57.InsertInterval.py)|Hard|
+|198.|[House Robber](https://leetcode.com/problems/house-robber/)|[Python](/Week%202/198.HouseRobber.py)|Easy|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
