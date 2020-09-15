@@ -33,5 +33,10 @@ For the following problems I was googling approaches:
 |57.|[Insert Interval](https://leetcode.com/problems/insert-interval/)|[Python](/Week%202/57.InsertInterval.py)|Hard|
 |198.|[House Robber](https://leetcode.com/problems/house-robber/)|[Python](/Week%202/198.HouseRobber.py)|Easy|
 
+## Week 3
+|№|Title|Solution|Difficulty|
+| ----: | --- | --- | --- |
+|58.|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Python](/Week%203/58.LengthofLastWord.py)|Easy|
+
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
