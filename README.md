@@ -10,6 +10,7 @@ In this repository provided my Python solutions of August LeetCoding Challenge p
 ## Notes
 For the following problems I was googling approaches:
 * <b>57\. <ins>Insert Interval</ins> (Hard)</b> - Was close to solve it on my own, but not. Main error: I was trying to do it in a given list and struggle with removing fully overlapped intervals.
+* <b>421\. <ins>Maximum XOR of Two Numbers in an Array</ins> (Medium)</b> - My first solution get `Memory Limit Exceeded`, second - `Time Limit Exceeded`. After several attempts I googled.
 
 ## Week 1
 |№|Title|Solution|Difficulty|
@@ -37,6 +38,7 @@ For the following problems I was googling approaches:
 |№|Title|Solution|Difficulty|
 | ----: | --- | --- | --- |
 |58.|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Python](/Week%203/58.LengthofLastWord.py)|Easy|
+|421.|[Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)|[Python](/Week%203/421.MaximumXORofTwoNumbersinanArray.py)|Medium|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
