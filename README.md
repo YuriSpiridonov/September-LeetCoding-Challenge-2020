@@ -41,7 +41,7 @@ For the following problems I was googling approaches:
 |58.|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Python](/Week%203/58.LengthofLastWord.py)|Easy|
 |421.|[Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)|[Python](/Week%203/421.MaximumXORofTwoNumbersinanArray.py)|Medium|
 |1041.|[Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/)|[Python](/Week%203/1041.RobotBoundedInCircle.py)|Medium|
-
+|121.|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Python](/Week%203/121.BestTimetoBuyandSellStock.py)|Easy|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
