@@ -12,6 +12,7 @@ For the following problems I was googling approaches:
 * <b>57\. <ins>Insert Interval</ins> (Hard)</b> - Was close to solve it on my own, but not. Main error: I was trying to do it in a given list and struggle with removing fully overlapped intervals.
 * <b>421\. <ins>Maximum XOR of Two Numbers in an Array</ins> (Medium)</b> - My first solution get `Memory Limit Exceeded`, second - `Time Limit Exceeded`. After several attempts I googled.
 * <b>1041\. <ins>Robot Bounded In Circle</ins> (Medium)</b> - Watched how to optimize direction/position issue.
+* <b>980\. <ins>Unique Paths III</ins> (Hard)</b> - Solved after watching several approaches/solutions.
 
 ## Week 1
 |№|Title|Solution|Difficulty|
@@ -43,6 +44,7 @@ For the following problems I was googling approaches:
 |1041.|[Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/)|[Python](/Week%203/1041.RobotBoundedInCircle.py)|Medium|
 |121.|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Python](/Week%203/121.BestTimetoBuyandSellStock.py)|Easy|
 |1291.|[Sequential Digits](https://leetcode.com/problems/sequential-digits/)|[Python](/Week%203/1291.SequentialDigits.py)|Medium|
+|980.|[Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)|[Python](/Week%203/980.UniquePathsIII.py)|Hard|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
