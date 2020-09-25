@@ -45,6 +45,15 @@ For the following problems I was googling approaches:
 |121.|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Python](/Week%203/121.BestTimetoBuyandSellStock.py)|Easy|
 |1291.|[Sequential Digits](https://leetcode.com/problems/sequential-digits/)|[Python](/Week%203/1291.SequentialDigits.py)|Medium|
 |980.|[Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)|[Python](/Week%203/980.UniquePathsIII.py)|Hard|
+|1094.|[Car Pooling](https://leetcode.com/problems/car-pooling/)|[Python](/Week%203/1094.CarPooling.py)|Medium|
+
+## Week 4
+|№|Title|Solution|Difficulty|
+| ----: | --- | --- | --- |
+|229.|[Majority Element II](https://leetcode.com/problems/majority-element-ii/)|[Python](/Week%204/229.MajorityElementII.py)|Medium|
+|134.|[Gas Station](https://leetcode.com/problems/gas-station/)|[Python](/Week%204/134.GasStation.py)|Medium|
+|389.|[Find the Difference](https://leetcode.com/problems/find-the-difference/)|[Python](/Week%204/389.FindtheDifference(set).py)|Easy|
+|179.|[Largest Number](https://leetcode.com/problems/largest-number/)|[Python](/Week%204/179.LargestNumber.py)|Medium|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
