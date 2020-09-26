@@ -54,6 +54,7 @@ For the following problems I was googling approaches:
 |134.|[Gas Station](https://leetcode.com/problems/gas-station/)|[Python](/Week%204/134.GasStation.py)|Medium|
 |389.|[Find the Difference](https://leetcode.com/problems/find-the-difference/)|[Python](/Week%204/389.FindtheDifference(set).py)|Easy|
 |179.|[Largest Number](https://leetcode.com/problems/largest-number/)|[Python](/Week%204/179.LargestNumber.py)|Medium|
+|495.|[Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)|[Python](/Week%204/495.TeemoAttacking.py)|Medium|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
