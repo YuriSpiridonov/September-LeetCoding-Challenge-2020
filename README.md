@@ -13,6 +13,7 @@ For the following problems I was googling approaches:
 * <b>421\. <ins>Maximum XOR of Two Numbers in an Array</ins> (Medium)</b> - My first solution get `Memory Limit Exceeded`, second - `Time Limit Exceeded`. After several attempts I googled.
 * <b>1041\. <ins>Robot Bounded In Circle</ins> (Medium)</b> - Watched how to optimize direction/position issue.
 * <b>980\. <ins>Unique Paths III</ins> (Hard)</b> - Solved after watching several approaches/solutions.
+* <b>399\. <ins>Evaluate Division</ins> (Medium)</b> - My solution passed 17/22 tests. I used one layer hashmap and it was the mistake. I wasn't be able to figure out what's wrong on my own.
 
 ## Week 1
 |№|Title|Solution|Difficulty|
@@ -55,6 +56,7 @@ For the following problems I was googling approaches:
 |389.|[Find the Difference](https://leetcode.com/problems/find-the-difference/)|[Python](/Week%204/389.FindtheDifference(set).py)|Easy|
 |179.|[Largest Number](https://leetcode.com/problems/largest-number/)|[Python](/Week%204/179.LargestNumber.py)|Medium|
 |495.|[Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)|[Python](/Week%204/495.TeemoAttacking.py)|Medium|
+|399.|[Evaluate Division](https://leetcode.com/problems/evaluate-division/)|[Python](/Week%204/399.EvaluateDivision.py)|Medium|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
