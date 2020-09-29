@@ -15,6 +15,7 @@ For the following problems I was googling approaches:
 * <b>980\. <ins>Unique Paths III</ins> (Hard)</b> - Solved after watching several approaches/solutions.
 * <b>399\. <ins>Evaluate Division</ins> (Medium)</b> - My solution passed 17/22 tests. I used one layer hashmap and it was the mistake. I wasn't be able to figure out what's wrong on my own.
 * <b>713\. <ins>Subarray Product Less Than K</ins> (Medium)</b> - After several different solutions with `Time Limit Exceeded` status I watched how to optimize the best one. 
+* <b>139\. <ins>Word Break</ins> (Medium)</b> - My solution get `Time Limit Exceeded`. Watched how to make it right.
 
 ## Week 1
 |№|Title|Solution|Difficulty|
@@ -59,6 +60,11 @@ For the following problems I was googling approaches:
 |495.|[Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)|[Python](/Week%204/495.TeemoAttacking.py)|Medium|
 |399.|[Evaluate Division](https://leetcode.com/problems/evaluate-division/)|[Python](/Week%204/399.EvaluateDivision.py)|Medium|
 |713.|[Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)|[Python](/Week%204/713.SubarrayProductLessThanK.py)|Medium|
+
+## Week 5
+|№|Title|Solution|Difficulty|
+| ----: | --- | --- | --- |
+|139.|[Word Break](https://leetcode.com/problems/word-break/)|[Python](/Week%205/139.WordBreak.py)|Medium|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
