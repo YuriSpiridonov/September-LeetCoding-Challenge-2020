@@ -65,6 +65,7 @@ For the following problems I was googling approaches:
 |№|Title|Solution|Difficulty|
 | ----: | --- | --- | --- |
 |139.|[Word Break](https://leetcode.com/problems/word-break/)|[Python](/Week%205/139.WordBreak.py)|Medium|
+|41.|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[Python](/Week%205/41.FirstMissingPositive.py)|Hard|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
