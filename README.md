@@ -2,7 +2,7 @@
 In this repository provided my Python solutions of September LeetCoding Challenge problems.
 
 ## Introduction
-In this repository provided my Python solutions of August LeetCoding Challenge problems. 
+In this repository provided my Python solutions of September LeetCoding Challenge problems. 
 - I highly recommend you to try and solve problems yourself before look at the solutions here.
 - Solutions and approaches may be not optimal.
 - All Solutions here are in Python 3.
